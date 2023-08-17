@@ -92,5 +92,6 @@ p{
     color: hsl(0, 0%, 100%);
     padding: 15px;
     border-radius: 8px;
+    border: none;
     width: 100%;
 }
